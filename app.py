@@ -2,7 +2,6 @@ import streamlit as st
 import openai
 import os
 import time
-import numpy as np
 from langchain.prompts import ChatPromptTemplate
 import os
 import openai
